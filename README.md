@@ -16,7 +16,7 @@ Each week, the Hugging Face has an internal science day where one team member pr
 - Paper: [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
 ](https://arxiv.org/abs/1902.01007)
 - Presenter: [Victor Sanh](https://twitter.com/sanhestpasmoi)
-- Discussion: Slides
+- Discussion: [Slides](https://docs.google.com/presentation/d/15waw0-rr4RmPx0dhEzhNhkSiFnNqhvjm66IufWbRLyw/edit?usp=sharing)
 
 
 #### Planned Discussions:
