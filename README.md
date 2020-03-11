@@ -1,22 +1,7 @@
 # Awesome NLP Paper Discussions
 
-Each week, the Hugging Face team has a science day where one team member presents an awesome NLP paper. We've decided to share this discussion with the community.
+Each week, the Hugging Face team has a science day where one team member presents an awesome NLP paper. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
 
-#### February 25, 2020
-- **Paper**: [Adaptively Sparse Transformers](https://arxiv.org/abs/1909.00015) 
-- **Authors**: Gonçalo M. Correia, [Vlad Niculae](https://twitter.com/vnfrombucharest), André F.T. Martins
-- **Presenter**: [Sasha Rush](https://twitter.com/srush_nlp)
-- **Discussion**: [Colab notebook](https://colab.research.google.com/drive/1EB7MI_3gzAR1gFwPPO27YU9uYzE_odSu)
-
-<img src="images/sparse.png" width="600pt">
-
-#### March 3, 2020
-- **Paper**: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
-- **Authors**: [Kelvin Guu](https://twitter.com/kelvin_guu), [Kenton Lee](https://twitter.com/kentonctlee), Zora Tung, [Panupong Pasupat](https://twitter.com/IcePasupat), [Ming-Wei Chang](https://twitter.com/mchang21)
-- **Presenter**: [Joe Davison](https://twitter.com/joeddav)
-- **Discussion**: [Write-up](https://joeddav.github.io/blog/2020/03/03/REALM.html)
-
-<img src="images/realm.png" width="400pt">
 
 #### March 10, 2020
 - **Paper**: [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
@@ -26,6 +11,23 @@ Each week, the Hugging Face team has a science day where one team member present
 - **Discussion**: [Slides](https://docs.google.com/presentation/d/15waw0-rr4RmPx0dhEzhNhkSiFnNqhvjm66IufWbRLyw/edit?usp=sharing)
 
 <img src="images/hans.png" width="500pt">
+
+#### March 3, 2020
+- **Paper**: [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+- **Authors**: [Kelvin Guu](https://twitter.com/kelvin_guu), [Kenton Lee](https://twitter.com/kentonctlee), Zora Tung, [Panupong Pasupat](https://twitter.com/IcePasupat), [Ming-Wei Chang](https://twitter.com/mchang21)
+- **Presenter**: [Joe Davison](https://twitter.com/joeddav)
+- **Discussion**: [Write-up](https://joeddav.github.io/blog/2020/03/03/REALM.html)
+
+<img src="images/realm.png" width="400pt">
+
+#### February 25, 2020
+- **Paper**: [Adaptively Sparse Transformers](https://arxiv.org/abs/1909.00015) 
+- **Authors**: Gonçalo M. Correia, [Vlad Niculae](https://twitter.com/vnfrombucharest), André F.T. Martins
+- **Presenter**: [Sasha Rush](https://twitter.com/srush_nlp)
+- **Discussion**: [Colab notebook](https://colab.research.google.com/drive/1EB7MI_3gzAR1gFwPPO27YU9uYzE_odSu)
+
+<img src="images/sparse.png" width="600pt">
+
 
 ### Planned Discussions
 
