@@ -2,6 +2,13 @@
 
 Each week, the Hugging Face team has a science day where one team member presents an awesome NLP paper. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
 
+#### March 17, 2020
+- **Paper**: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) 
+- **Authors**: [Aaron van den Oord](https://twitter.com/avdnoord), Yazhe Li, Oriol Vinyals
+- **Presenter** [Patrick von Platen](https://twitter.com/PatrickPlaten)
+- **Discussion**: [Slides](https://docs.google.com/presentation/d/1qxt7otjFI8iQSCpwzwTNei4_n4e4CIczC6nwy3jdiJY/edit?usp=sharing)
+
+<img src="images/cpc.png" width="500pt">
 
 #### March 10, 2020
 - **Paper**: [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
@@ -30,11 +37,6 @@ Each week, the Hugging Face team has a science day where one team member present
 
 
 ### Planned Discussions
-
-#### March 17, 2020
-- **Paper**: [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) 
-- **Authors**: [Aaron van den Oord](https://twitter.com/avdnoord), Yazhe Li, Oriol Vinyals
-- **Presenter** [Patrick von Platen](https://twitter.com/PatrickPlaten)
 
 #### March 24, 2020
 - **Paper**: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
