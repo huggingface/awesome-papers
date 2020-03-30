@@ -42,6 +42,10 @@ Each week, the Hugging Face team has a science day where one team member present
 - **Paper**: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - **Authors**: Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, [Scott Gray](https://twitter.com/scottgray76), [Alec Radford](https://twitter.com/AlecRad), Jeffrey Wu, Dario Amodei
 - **Presenter**: [Teven Le Scao](https://twitter.com/Fluke_Ellington)
+- **Discussion**: [Google doc paper tutorial](https://docs.google.com/document/d/1Rye61octaEF6FPHN3E7Bn2s-W3AWgMi1hukxrbkBmgY/edit#heading=h.s0a83j1o76km)
+
+<img src="images/scaling_laws.png" width="600pt">
+
 
 #### March 31, 2020
 - **Paper**: [Compositionality decomposed: how do neural networks generalise?](https://arxiv.org/abs/1908.08351)
