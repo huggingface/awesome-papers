@@ -7,6 +7,8 @@ Each week, the Hugging Face team has a science day where one team member present
 - **Presenter**: [Yacine Jernite](https://twitter.com/YJernite)
 - **Discussion**: [Slides](https://docs.google.com/presentation/d/1A5wJEzFYGdNem7egJ-BTm6EMI3jGNe1lalyChYL54gw)
 
+<img src="images/orqa.png" width="600pt">
+
 #### March 24, 2020
 - **Paper**: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - **Authors**: Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, [Scott Gray](https://twitter.com/scottgray76), [Alec Radford](https://twitter.com/AlecRad), Jeffrey Wu, Dario Amodei
