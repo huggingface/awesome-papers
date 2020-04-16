@@ -2,6 +2,8 @@
 
 Each week, the Hugging Face team has a science day where one team member presents an awesome NLP paper. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
 
+_Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
+
 #### April 7, 2020
 - **Topic**: Overview of recent work on: Indexing and Retrieval for Open Domain Question Answering
 - **Presenter**: [Yacine Jernite](https://twitter.com/YJernite)
