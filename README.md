@@ -1,6 +1,6 @@
 # Awesome NLP Paper Discussions
 
-Each week, the Hugging Face team has a science day where one team member presents an awesome NLP paper. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
+Each week, the Hugging Face team has a science day where one team member leads a discussion on an awesome NLP paper or research area. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
 
 _Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
 
@@ -62,8 +62,4 @@ _Note: These science day discussions are held offline with no physical presentat
 
 ### Planned Discussions
 
-
-#### March 31, 2020
-- **Paper**: [Compositionality decomposed: how do neural networks generalise?](https://arxiv.org/abs/1908.08351)
-- **Authors**: [Dieuwke Hupkes](https://twitter.com/_dieuwke_), Verna Dankers, Mathijs Mul, Elia Bruni
-- **Presenter**: [Thomas Wolf](https://twitter.com/Thom_Wolf)
+_Nothing planned for the moment, check back soon!_
