@@ -9,7 +9,7 @@ _Note: These science day discussions are held offline with no physical presentat
 - **Presenter**: [Thomas Wolf](https://twitter.com/Thom_Wolf)
 - **Discussion**: [Video](https://www.youtube.com/watch?v=G5lmya6eKtc)
 
-<img src="https://i9.ytimg.com/vi/G5lmya6eKtc/maxresdefault.jpg?time=1587732855301&sqp=CPjAi_UF&rs=AOn4CLC6orjMq7x2S3f_cE6NBf6T74vB2g" width="600pt">
+<img src="images/transfer-learning.png" width="600pt">
 
 #### April 7, 2020
 - **Topic**: Overview of recent work on: Indexing and Retrieval for Open Domain Question Answering
