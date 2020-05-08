@@ -4,6 +4,14 @@ Each week, the Hugging Face team has a science day where one team member leads a
 
 _Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
 
+#### May 5, 2020
+- **Paper**: [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://arxiv.org/abs/1812.04616) 
+- **Authors**: [Sachin Kumar](https://twitter.com/shocheen), Yulia Tsvetkov
+- **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
+- **Discussion**: [Colab notebook](https://colab.research.google.com/drive/1040xlv5WkLo_Xli0FpA2_bxyfsMouZ-w)
+
+<img src="images/vmfvscos.png" width="600pt">
+
 #### April 22, 2020
 - **Topic**: Transfer Learning in Natural Language Processing (NLP): Open questions, current trends, limits, and future directions
 - **Presenter**: [Thomas Wolf](https://twitter.com/Thom_Wolf)
@@ -38,7 +46,7 @@ _Note: These science day discussions are held offline with no physical presentat
 - **Paper**: [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
 ](https://arxiv.org/abs/1902.01007)
 - **Authors**: [R. Thomas McCoy](https://twitter.com/RTomMcCoy), Ellie Pavlick, [Tal Linzen](https://twitter.com/tallinzen)
-- **Presenter**: [Victor Sanh](https://twitter.com/sanhestpasmoi)
+- **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
 - **Discussion**: [Slides](https://docs.google.com/presentation/d/15waw0-rr4RmPx0dhEzhNhkSiFnNqhvjm66IufWbRLyw/edit?usp=sharing)
 
 <img src="images/hans.png" width="500pt">
