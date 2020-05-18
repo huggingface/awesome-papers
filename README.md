@@ -8,7 +8,7 @@ _Note: These science day discussions are held offline with no physical presentat
 - **Paper**: [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
 - **Authors**: [Victor Sanh](https://twitter.com/SanhEstPasMoi), [Thomas Wolf](https://twitter.com/Thom_Wolf), [Alexander M. Rush](https://twitter.com/srush_nlp)
 - **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
-- **Discussion**: [Slideshare](https://www.slideshare.net/AlexanderMRush/movement-pruning-explain-like-im-five)
+- **Discussion**: [Slideshare](https://www.slideshare.net/VictorSanh/movement-pruning-explain-like-im-five-234205241)
 
 <img src="images/movement.png" width="600pt">
 
