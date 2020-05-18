@@ -4,6 +4,14 @@ Each week, the Hugging Face team has a science day where one team member leads a
 
 _Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
 
+#### May 18, 2020
+- **Paper**: [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
+- **Authors**: [Victor Sanh](https://twitter.com/SanhEstPasMoi), [Thomas Wolf](https://twitter.com/Thom_Wolf), [Alexander M. Rush](https://twitter.com/srush_nlp)
+- **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
+- **Discussion**: [Slideshare](https://www.slideshare.net/AlexanderMRush/movement-pruning-explain-like-im-five)
+
+<img src="images/movement.png" width="600pt">
+
 #### May 5, 2020
 - **Paper**: [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://arxiv.org/abs/1812.04616) 
 - **Authors**: [Sachin Kumar](https://twitter.com/shocheen), Yulia Tsvetkov
