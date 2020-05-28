@@ -1,8 +1,10 @@
 # Awesome NLP Paper Discussions
 
-Each week, the Hugging Face team has a science day where one team member leads a discussion on an awesome NLP paper or research area. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
+The Hugging Face team believes that we can reach our goals in NLP by building powerful open source tools and by conducting impactful research. Our team has begun holding regular internal discussions about awesome papers and research areas in NLP. In the spirit of open science, we've decided to share these discussion materials with the community.
 
 _Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
+
+See [planned future discussions](#planned-discussions) below.
 
 #### May 18, 2020
 - **Paper**: [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
