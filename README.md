@@ -7,7 +7,7 @@ _Note: These science day discussions are held offline with no physical presentat
 See [planned future discussions](#planned-discussions) below.
 
 #### June 9, 2020
-- **Paper**: [MEvaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
+- **Paper**: [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
 - **Authors**: [Matt Gardner](https://twitter.com/nlpmattg), [Yoav Artzi](https://twitter.com/yoavartzi), Victoria Basmova, [Jonathan Berant](https://twitter.com/JonathanBerant), [Ben Bogin](https://twitter.com/ben_bogin), [Sihao Chen](https://twitter.com/soshsihao), [Pradeep Dasigi](https://twitter.com/pdasigi), [Dheeru Dua](https://twitter.com/ddua17), [Yanai Elazar](https://twitter.com/yanaiela), Ananth Gottumukkala, [Nitish Gupta](https://twitter.com/yanaiela), [Hanna Hajishirzi](https://twitter.com/HannaHajishirzi), [Gabriel Ilharco](https://twitter.com/gabriel_ilharco), [Daniel Khashabi](https://twitter.com/DanielKhashabi), [Kevin Lin](https://twitter.com/nlpkevinl), Jiangming Liu, [Nelson F. Liu](https://twitter.com/nelsonfliu), Phoebe Mulcaire, [Qiang Ning](https://twitter.com/qiangning), [Sameer Singh](https://twitter.com/sameer_), [Noah A. Smith](https://twitter.com/nlpnoah), [Sanjay Subramanian](https://twitter.com/sanjayssub), [Reut Tsarfaty](https://twitter.com/rtsarfaty), [Eric Wallace](https://twitter.com/Eric_Wallace_), Ally Zhang, [Ben Zhou](https://twitter.com/BenZhou96)
 - **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
 - **Discussion**: [Slides](https://docs.google.com/presentation/d/1DfA2xi0JBSbqQ0hJrhI0jzANwjSaxV7odOA73lPfHjo/edit?usp=sharing)
@@ -88,4 +88,10 @@ See [planned future discussions](#planned-discussions) below.
 
 ### Planned Discussions
 
-_Nothing planned for the moment, check back soon!_
+#### June 16, 2020
+- **Paper**: [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
+- **Presenter**: [Teven Le Scao](https://twitter.com/Fluke_Ellington)
+
+#### June 23, 2020
+- **Paper**: [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)
+- **Presenter**: [Joe Davison](https://twitter.com/joeddav)
