@@ -106,6 +106,4 @@ See [planned future discussions](#planned-discussions) below.
 
 ### Planned Discussions
 
-#### June 23, 2020
-- **Paper**: [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)
-- **Presenter**: [Joe Davison](https://twitter.com/joeddav)
+No planned discussions for the moment, check back soon.
