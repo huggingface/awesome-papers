@@ -6,6 +6,15 @@ _Note: These science day discussions are held offline with no physical presentat
 
 See [planned future discussions](#planned-discussions) below.
 
+#### June 23, 2020
+- **Paper**: [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)
+- **Authors**: Keita Kurita, [Paul Michel](https://twitter.com/pmichelX), [Graham Neubig](https://twitter.com/gneubig)
+- **Presenter**: [Joe Davison](https://twitter.com/joeddav)
+- **Presentation**: [Colab notebook/post](https://colab.research.google.com/drive/1BzdevUCFUSs_8z_rIP47VyKAlvfK1cCB?usp=sharing)
+- **[Community Discussion](https://github.com/huggingface/awesome-papers/discussions/8)**
+
+<img src="images/evil_bert.png" width="600pt">
+
 #### June 18, 2020
 - **Paper**: [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
 - **Authors**: [Sinong Wang](https://twitter.com/sinongwang), [Belinda Li](https://twitter.com/belindazli), Madian Khabsa, [Han Fang](https://twitter.com/Han_Fang_), Hao Ma 
