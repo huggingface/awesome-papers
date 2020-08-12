@@ -6,6 +6,15 @@ _Note: These science day discussions are held offline with no physical presentat
 
 See [planned future discussions](#planned-discussions) below.
 
+#### August 12, 2020
+- **Paper**: [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
+- **Authors**: [Mike Lewis](https://twitter.com/ml_perception), [Marjan Ghazvininejad](https://twitter.com/gh_marjan), [Gargi Ghosh](https://twitter.com/gargighosh), Armen Aghajanyan, [Sida Wang](https://twitter.com/sidawxyz), [Luke Zettlemoyer](https://twitter.com/lukezettlemoyer)
+- **Presenter**: [Sam Shleifer](https://twitter.com/sam_shleifer)
+- **Presentation**: [Forum Summary](https://discuss.huggingface.co/t/science-tuesday-marge/685)
+- **[Community Discussion](https://discuss.huggingface.co/t/science-tuesday-marge/685)**
+
+<img src="images/marge.png" width="600pt">
+
 #### June 23, 2020
 - **Paper**: [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)
 - **Authors**: Keita Kurita, [Paul Michel](https://twitter.com/pmichelX), [Graham Neubig](https://twitter.com/gneubig)
